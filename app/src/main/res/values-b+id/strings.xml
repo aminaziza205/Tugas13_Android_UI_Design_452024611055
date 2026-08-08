@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lesson 13 UI Design</string>
+
+    <string name="toolbar_title">Profil Saya</string>
+
+    <string name="welcome_title">Selamat Datang!</string>
+    <string name="welcome_subtitle">Silakan lengkapi profil Anda di bawah ini</string>
+
+    <string name="label_name">Nama Lengkap</string>
+    <string name="label_email">Alamat Email</string>
+    <string name="hint_name">Masukkan nama Anda</string>
+    <string name="hint_email">contoh@email.com</string>
+
+    <string name="error_name_empty">Nama tidak boleh kosong</string>
+    <string name="error_email_invalid">Format email tidak valid</string>
+
+    <string name="btn_save_text">Simpan Profil</string>
+    <string name="snackbar_saved">Profil berhasil disimpan!</string>
+    <string name="snackbar_action_undo">BATAL</string>
+
+    <string name="desc_fab">Tambah entri baru</string>
+
+    <string name="nav_home">Beranda</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_settings">Pengaturan</string>
+</resources>

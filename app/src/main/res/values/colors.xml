@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary palette -->
+    <color name="purple_500">#6650a4</color>
+    <color name="purple_700">#4a3880</color>
+    <color name="purple_200">#D0BCFF</color>
+
+    <!-- Secondary palette -->
+    <color name="teal_500">#03A9A4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="teal_200">#B2DFDB</color>
+
+    <!-- Neutral / surface -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background_light">#FFFBFE</color>
+    <color name="background_dark">#1C1B1F</color>
+    <color name="surface_dark">#2B2930</color>
+    <color name="on_surface_light">#1C1B1F</color>
+    <color name="on_surface_dark">#E6E1E5</color>
+
+    <color name="error_red">#B3261E</color>
+</resources>

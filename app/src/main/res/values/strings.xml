@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lesson 13 UI Design</string>
+
+    <string name="toolbar_title">My Profile</string>
+
+    <!-- Disesuaikan dengan activity_main.xml -->
+    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_subtitle">Please complete your profile below</string>
+
+    <string name="label_name">Full Name</string>
+    <string name="label_email">Email Address</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_email">example@email.com</string>
+
+    <!-- PENTING: Dipanggil di MainActivity.kt fungsi validateInput() -->
+    <string name="error_name_empty">Name cannot be empty</string>
+    <string name="error_email_invalid">Invalid email format</string>
+
+    <!-- PENTING: Dipanggil di activity_main.xml untuk teks tombol -->
+    <string name="btn_save_text">Save Profile</string>
+
+    <!-- PENTING: Dipanggil di MainActivity.kt untuk Snackbar -->
+    <string name="snackbar_saved">Profile saved successfully!</string>
+    <string name="snackbar_action_undo">UNDO</string>
+
+    <!-- PENTING: Dipanggil di activity_main.xml untuk deskripsi FAB -->
+    <string name="desc_fab">Add new entry</string>
+
+    <!-- Menu Navigasi Bawah -->
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+</resources>
